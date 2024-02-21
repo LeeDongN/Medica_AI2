@@ -1,0 +1,3 @@
+1-Applied balancing with ADASYN and SMOTE methods of oversampling
+2-Applied KNN
+3-Comparison of Accuracies
